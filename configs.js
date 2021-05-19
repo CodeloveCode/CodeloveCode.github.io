@@ -1,0 +1,1 @@
+const urls={oss_uri:"http://118.31.184.21:9006",portal_system_url:"http://118.31.184.21:6543/",base_url_login:"http://118.31.184.21:5035",base_url_java_two_table:"http://10.21.18.231:8080"},ENABLE_PERMISSION=!1;window.__configs={urls:urls,ENABLE_PERMISSION:ENABLE_PERMISSION};
